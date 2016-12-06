@@ -1,0 +1,124 @@
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px; 
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#myCarousel {
+    width: 100%;
+}
+
+.carousel-inner .item {
+    width: 100%;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.carousel-caption{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+.ad3{
+    background: url(../images/plato.png)no-repeat center fixed;
+
+}
+
+.ad2{
+    background: url(../images/c.jpg) no-repeat center center fixed; 
+}
+.ad1 {
+    background: url(../images/z.jpg) no-repeat center center fixed; 
+}
+.ad0 {
+    background: url(../images/x2.png) no-repeat center center fixed ; 
+}
+/* unvisited link */
+a{
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+  .intro{
+ text-decoration: line-through;
+    }
+.abc{
+    color: white;
+}
+.WomeninTechnologhy
+{
+    position: absolute;
+  
+    left: 0.8%;
+    right:  auto;
+    width: 100%;
+    color: #fff;
+    
+        background-color:#23041A   ;
+    padding: 10px;
+}
+.carousel-indicators .active {
+    background-color: #2980b9;
+}
+.carousel-control.left,
+.carousel-control.right {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    background-image: none;
+    background-repeat: no-repeat;
+    text-shadow: none;
+
+}
+.fran{
+    color: hotpink;
+}
+.navbar{
+    background-color: #23041A     ;
+}
+p{
+font-size: 20px;
+}
+.lamb{
+    font-size: 20px;
+}
+
