@@ -12,10 +12,6 @@ body {
 footer {
     margin: 50px 0;
 }
-.error-404 {
-    font-size: 100px;
-}
-
 .img-portfolio {
     margin-bottom: 30px;
 }
@@ -73,7 +69,6 @@ footer {
 .ad0 {
     background: url(../images/x2.png) no-repeat center center fixed ; 
 }
-
 /* unvisited link */
 a{
     color: black;
