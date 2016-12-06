@@ -73,17 +73,6 @@ footer {
 .ad0 {
     background: url(../images/x2.png) no-repeat center center fixed ; 
 }
-@media(max-width:991px) {
-    .customer-img,
-    .img-related {
-        margin-bottom: 30px;
-    }
-}
-
-@media(max-width:767px) {
-    .img-portfolio {
-        margin-bottom: 15px;
-    }
 
 /* unvisited link */
 a{
